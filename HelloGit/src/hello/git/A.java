@@ -6,4 +6,8 @@ public class A {
 		
 	}
 
+	public void feature1() {
+		
+	}
+	
 }
